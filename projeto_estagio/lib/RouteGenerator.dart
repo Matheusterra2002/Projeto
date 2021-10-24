@@ -6,7 +6,8 @@ import 'package:projeto_estagio/views/Login.dart';
 import 'package:projeto_estagio/views/PerfilUsuario.dart';
 import 'package:projeto_estagio/views/TelaMapa.dart';
 import 'package:projeto_estagio/views/TelaNoticia.dart';
-import 'package:projeto_estagio/views/TelaVacina.dart';
+import 'package:projeto_estagio/views/CadastroVacina.dart';
+import 'package:projeto_estagio/views/VacinasPendentes.dart';
 
 class RouteGenerator {
   static Route<dynamic> generateRoute(RouteSettings settings) {
@@ -23,8 +24,10 @@ class RouteGenerator {
         return MaterialPageRoute(builder: (_) => TelaNoticia());
       case "/TelaMapa":
         return MaterialPageRoute(builder: (_) => TelaMapa());
-      case "/TelaVacina":
-        return MaterialPageRoute(builder: (_) => TelaVacina());
+      case "/CadastroVacina":
+        return MaterialPageRoute(builder: (_) => CadastroVacina());
+      case "/VacinasPendentes":
+        return MaterialPageRoute(builder: (_) => VacinasPendentes());
       default:
         _erroRota();
     }

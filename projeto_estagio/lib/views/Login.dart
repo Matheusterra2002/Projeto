@@ -13,9 +13,19 @@ class Login extends StatefulWidget {
 }
 
 class _LoginState extends State<Login> {
+  Future _verificarUsuarioLogado() async {
+    await Firebase.initializeApp();
+    FirebaseAuth auth = await FirebaseAuth.instance;
+    User? usuarioLogado = await auth.currentUser;
+    if (usuarioLogado != null) {
+      Navigator.pushNamedAndRemoveUntil(context, "/", (route) => false);
+    }
+  }
+
   @override
   void initState() {
     super.initState();
+    _verificarUsuarioLogado();
     Firebase.initializeApp().whenComplete(() {
       setState(() {});
     });

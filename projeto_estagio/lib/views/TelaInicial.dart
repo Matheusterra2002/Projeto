@@ -108,7 +108,7 @@ class _TelaInicialState extends State<TelaInicial> {
                   name: "Vacinas pendentes",
                   imgPath: "imagens/vacina_icon.png",
                   showmore: "",
-                  rota: "/TelaVacina",
+                  rota: "/VacinasPendentes",
                   cor: Colors.white,
                   alinhamento: Alignment.topCenter,
                   context: context),

@@ -44,7 +44,7 @@ class _CadastroState extends State<Cadastro> {
       //redireciona para tela principal
       _salvarDados();
       Navigator.pushNamedAndRemoveUntil(
-          context, "/TelaVacina", (route) => false);
+          context, "/CadastroVacina", (route) => false);
       //Navigator.pushReplacementNamed(context, "/");
     });
   }
