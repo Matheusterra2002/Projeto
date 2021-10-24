@@ -38,7 +38,7 @@ class _TelaVacinaState extends State<TelaVacina> {
           return new SingleChildScrollView(
             child: Column(
               children: [
-                SingleChildScrollView(
+                Scrollbar(
                     child: ListView(
                   scrollDirection: Axis.vertical,
                   shrinkWrap: true,
