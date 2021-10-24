@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "246586334511",
+    "project_id": "estagio-app-aa61c",
+    "storage_bucket": "estagio-app-aa61c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246586334511:android:468de44d16f7a09bf855da",
+        "android_client_info": {
+          "package_name": "com.example.projeto_estagio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246586334511-voijm07ma90jal0icbb7knsoi61lg6vn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDujwoDtTmcBR8I1vcWdHrIG5uZ_QkUxd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246586334511-voijm07ma90jal0icbb7knsoi61lg6vn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
