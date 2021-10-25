@@ -16,7 +16,7 @@ Estamos usando o site da [World Health Organization](https://www.who.int/pt/emer
   
 ## Alguma das principais interfaces
 
-  <p align="center">
+  <p align="Left">
     <img src="https://lh3.googleusercontent.com/jQyMtYkd1MNvOmYminJzm4kM1vTUrsC9ej6cJrzjouodWIkuW1HqyNl-k7tSKRDomOk9eCUWk4XML8AhGUEKtT62KjbLRMuhrhqPLg6wXxFwXsEgs3xlqIC50baqg_mniC7jXuvq3qFx0HCiTnoRJBnVGbTmwwGmN2JEZmZ9rWtwfZ05qBTfYPWDr5KggbHtp3Ax6o16b_ccxlrBE2eitLsG0b2apcoO7WcvYv2llXpYoNuFzy_H8toPXoPO3AM5YZqcE_hzKf32qfC7O-ppJ_1_hI-coNRmem4zEgdm0JnS5zF4QY5_xd3N5-inSTl-rUC7UcMqurRyIGREr8mv4VE8BGb8xpMD0JC4lNn41-0qlkxCFn4qN2gQdTx2ETov__py8D80PoG2_passpC2UDXcHqFKy1fWpk4HtmBKR8hFki6mIOoaaiFyvmi4HDEZcS3Y-dhJXWCqsoPhKeboWwECuBw8JMe1zcXy-WDzdyzNFvmqcBDw0hxaIlFhZ6AYDc-BTebCIHwO39hAtNRBabHfoSv2oERAAvJjTF4xWm9ITTCioNBVTY4i27F1mDkHT4VZ6N2sDWB9sEjPzSdVk-4Ag7oZAh-hBETsm9py_vutn6VSacj29iMfE-ZtsnQJ-Mf_HU0VGqxXn7-SiOzKzFHLVR1pQF-HIblKDVzduoJWOcAvRy1O38TgOtu_cQCVbd8qXS2F3wyeMcpECaHGlN-4=w395-h789-no?authuser=0" height="612" width="300" alt="Unform" />
 </p>
 
