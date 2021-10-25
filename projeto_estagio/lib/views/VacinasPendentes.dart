@@ -16,9 +16,9 @@ class _VacinasPendentesState extends State<VacinasPendentes> {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: Text("Vacinas Pendentes"),
-          centerTitle: true,
-        ),
+            title: Text("Vacinas Pendentes"),
+            centerTitle: true,
+            backgroundColor: Color(0xFFFFC855)),
         body: StreamBuilder<QuerySnapshot>(
           stream: firestoreService
               .collection('usuarios')
@@ -58,7 +58,7 @@ class _VacinasPendentesState extends State<VacinasPendentes> {
                             spreadRadius: 1.0,
                           )
                         ],
-                        color: Color(0xFFF5FFFA),
+                        color: Color(0xFFFFFFF0),
                       ),
                       child: CheckboxListTile(
                           title: Text(document['nome'],

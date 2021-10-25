@@ -40,6 +40,7 @@ class _CadastroVacinaState extends State<CadastroVacina> {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
+          backgroundColor: Color(0xFFFFC855),
           title: Text("Cadastro de Vacinas"),
           centerTitle: true,
         ),

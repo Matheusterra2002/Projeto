@@ -14,7 +14,12 @@ class _TelaNoticiaState extends State<TelaNoticia> {
   Widget build(BuildContext context) {
     return SafeArea(
       child: Scaffold(
-        appBar: AppBar(title: Text("Princiapais notícias"), centerTitle: true),
+        backgroundColor: Color(0xFFFFFFFF),
+        appBar: AppBar(
+          title: Text("Princiapais notícias"),
+          centerTitle: true,
+          backgroundColor: Color(0xFFFFC855),
+        ),
         body: StreamBuilder(
             stream:
                 FirebaseFirestore.instance.collection('noticias').snapshots(),

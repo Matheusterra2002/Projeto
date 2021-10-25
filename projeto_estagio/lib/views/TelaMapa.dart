@@ -21,7 +21,7 @@ class _TelaMapaState extends State<TelaMapa> {
       appBar: AppBar(
           centerTitle: true,
           title: Text("Centros de Saúde"),
-          backgroundColor: Colors.blue),
+          backgroundColor: Color(0xFFFFC855)),
       body: ChangeNotifierProvider<PostosController>(
         create: (context) => PostosController(),
         child: Builder(builder: (context) {

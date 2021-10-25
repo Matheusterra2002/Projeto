@@ -14,7 +14,7 @@ class BotaoCustomizado extends StatelessWidget {
   Widget build(BuildContext context) {
     return RaisedButton(
       shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(4)),
-      color: Color(0xFF191970),
+      color: Color(0xFFFFC855),
       child: Text(
         this.texto,
         style: TextStyle(color: this.corTexto, fontSize: 20),

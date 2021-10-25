@@ -151,7 +151,7 @@ class _CadastroState extends State<Cadastro> {
       body: Container(
         decoration: new BoxDecoration(
             gradient: new LinearGradient(
-                colors: [const Color(0xFF9370DB), const Color(0xFF00BFFF)],
+                colors: [const Color(0xFFFFC855), const Color(0xFF00BFFF)],
                 begin: FractionalOffset.topLeft,
                 end: FractionalOffset.bottomRight,
                 stops: [0.0, 1.0],

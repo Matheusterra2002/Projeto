@@ -55,7 +55,7 @@ class _TelaInicialState extends State<TelaInicial> {
     return Scaffold(
       appBar: AppBar(
         centerTitle: true,
-        backgroundColor: Colors.blue,
+        backgroundColor: Color(0xFFFFC855),
         title: Text("Vacina Digital"),
         elevation: 0,
         actions: <Widget>[
@@ -75,7 +75,7 @@ class _TelaInicialState extends State<TelaInicial> {
       body: Container(
         decoration: new BoxDecoration(
             gradient: new LinearGradient(
-                colors: [const Color(0xFF7FFFD4), const Color(0xFFF5FFFA)],
+                colors: [const Color(0xFFFFFFFF), const Color(0xFFFFFFE0)],
                 begin: FractionalOffset.topLeft,
                 end: FractionalOffset.bottomRight,
                 stops: [0.0, 1.0],

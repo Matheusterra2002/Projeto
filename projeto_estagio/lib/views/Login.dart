@@ -78,7 +78,7 @@ class _LoginState extends State<Login> {
       body: Container(
         decoration: new BoxDecoration(
             gradient: new LinearGradient(
-                colors: [const Color(0xFF9370DB), const Color(0xFF00BFFF)],
+                colors: [const Color(0xFFFFC855), const Color(0xFF00BFFF)],
                 begin: FractionalOffset.topLeft,
                 end: FractionalOffset.bottomRight,
                 stops: [0.0, 1.0],
@@ -123,11 +123,14 @@ class _LoginState extends State<Login> {
                       Padding(padding: EdgeInsets.only(top: 20)),
                       Text(
                         "Não possui uma conta?",
-                        style: TextStyle(fontSize: 18, color: Colors.white),
+                        style: TextStyle(fontSize: 20, color: Colors.white),
                       ),
                       Text(
                         "  Cadastre-se!",
-                        style: TextStyle(fontSize: 18, color: Colors.white),
+                        style: TextStyle(
+                            fontSize: 20,
+                            color: Colors.white,
+                            fontWeight: FontWeight.w600),
                       ),
                     ],
                   ),

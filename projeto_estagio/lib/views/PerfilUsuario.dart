@@ -38,7 +38,9 @@ class _PerfilUsuarioState extends State<PerfilUsuario> {
     FirebaseFirestore firestoreService = FirebaseFirestore.instance;
     FirebaseAuth auth = FirebaseAuth.instance;
     return Scaffold(
+      backgroundColor: Color(0xFFFFFAFA),
       appBar: AppBar(
+        backgroundColor: Color(0xFFFFC855),
         centerTitle: true,
         title: Text(
           "Meu Perfil",
