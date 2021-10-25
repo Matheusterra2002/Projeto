@@ -18,19 +18,9 @@
 A carteira de vacinação digital é uma aplicação, focada em aumentar o número de indíviduos vacinados na cidade de Campinas (SP), dessa forma busca criar experiências digitais
 através de interfaces de fácil manipulação. Usando o app é possível localizar os postos de vacinação mais próximos ao usuário, bem como informações referentes ao imunizantes. Também é possível verificar quais vacinas já foram adquiridas e quais ainda estão pendentes, dessa forma, auxiliando o usúario durante o perído de vacinação.
 
-- **[Getting started](https://unform.dev/quick-start)**
-- **[Installation](https://unform.dev/installation)**
+## Precisa de ajuda?
 
-Want to test Unform before using it?
-
-- **[React Playground](https://codesandbox.io/embed/agitated-tdd-uf177?autoresize=1&expanddevtools=1&fontsize=14&hidenavigation=1&theme=dark)**
-- **[React Native Playground](https://snack.expo.io/@diego3g/1e9fb3)**
-
-_ps: not available with React Native Web or Expo Web, use the iOS/Android devices in Expo Snack._
-
-## Need help?
-
-We’re using [GitHub Discussions](https://github.com/unform/unform/discussions) to create conversations around Unform. It is a place for our community to connect with each other around ideas, questions, issues, and suggestions.
+Estamos usando [Vacinas Explicadas](https://www.who.int/pt/emergencies/diseases/novel-coronavirus-2019/covid-19-vaccines/explainers?adgroupsurvey={adgroupsurvey}&gclid=CjwKCAjwq9mLBhB2EiwAuYdMtZKLj_-_WWUh-iO-Bl2T_o3Fs-qsDZFU2hrCHFH_m_x8gZPfCgEN1hoCOFoQAvD_BwE) para solucionar quaisquer dúvidas referentes as vacinas.
 
 ## Roadmap
 
