@@ -9,11 +9,11 @@ Estamos usando o site da [World Health Organization](https://www.who.int/pt/emer
   
 ## Tecnologias utilizadas
 <p align="left">
- <a href="https://firebase.google.com/?hl=pt-br">• Firebase</a>
+  <a href="https://flutter.dev/">• Flutter</a>
   <p></p>
- <a href="https://flutter.dev/">• Flutter</a>
+  <a href="https://dart.dev/">• Dart</a>
  <p></p>
- <a href="https://dart.dev/">• Dart</a>
+ <a href="https://firebase.google.com/?hl=pt-br">• Firebase</a>
  <p></p>
 </p>
 
