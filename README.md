@@ -9,9 +9,7 @@ Estamos usando o site da [World Health Organization](https://www.who.int/pt/emer
   
 ## Linguagens utilizadas
 Para o front-end foi utilizado a ferramenta [Flutter](https://flutter.dev/)
-</p>
 Para o back-end foi utilizado a linguagem [Dart](https://dart.dev/)
-</p>
 Para o serviço de banco de dados foi utilizado o [Firebase](https://firebase.google.com/)
 
 
