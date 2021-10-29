@@ -10,6 +10,7 @@ Estamos usando o site da [World Health Organization](https://www.who.int/pt/emer
 ## Linguagens utilizadas
 <!--ts-->
 *[Flutter](https://flutter.dev/)
+</p>
 *[Dart](https://dart.dev/)
 *[Firebase](https://firebase.google.com/)
 <!--te-->
